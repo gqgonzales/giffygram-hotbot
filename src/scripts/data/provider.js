@@ -1,6 +1,6 @@
 // Digital Ocean URL replaces localhost
 const apiURL =
-  "https://giffygram-hotbot-gabe-gonzales-vgoii.ondigitalocean.app/";
+  "https://giffygram-hotbot-api-wq7nt.ondigitalocean.app/";
 const applicationElement = document.querySelector(".giffygram");
 
 const applicationState = {
